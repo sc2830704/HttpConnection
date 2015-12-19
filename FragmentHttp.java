@@ -1,11 +1,6 @@
 ﻿
 public class FragmentHttp extends Fragment {
 
-
-    private HttpURLConnection httpURLConnection;
-    private URL url;
-    private Button post;
-
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
